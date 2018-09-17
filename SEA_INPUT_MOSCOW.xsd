@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
    <xs:element name="road" maxOccurs="unbounded">
       <xs:complexType>
@@ -16,4 +17,24 @@
          </xs:sequence>
       </xs:complexType>
    </xs:element>
+=======
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+   <xs:element name="road" maxOccurs="unbounded">
+      <xs:complexType>
+         <xs:sequence>
+             <xs:element name="start" type="xs:integer"/>
+             <xs:element name="stop" type="xs:integer"/>
+             <xs:element name="distance" type="xs:integer"/>
+         </xs:sequence>
+	 <xs:attribute name="id" type="xs:integer" use="required"/>
+      </xs:complexType>
+   </xs:element>
+   <xs:element name="ITS">
+      <xs:complexType>
+         <xs:sequence>
+            <xs:element ref="road" maxOccurs="unbounded"/>
+         </xs:sequence>
+      </xs:complexType>
+   </xs:element>
+>>>>>>> cbb2f0c0880b20e3b8dccca238417076d5b04d98
 </xs:schema>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <ITS number="64">
 	<num>188</num>
@@ -941,4 +942,949 @@
 		<stop>23</stop>
 		<distance>1500</distance>
 	</road>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<ITS number="64">
+	<num>188</num>
+	<road id="1">
+		<start>1</start>
+		<stop>5</stop>
+		<distance>0</distance>
+	</road>
+	<road id="2">
+		<start>2</start>
+		<stop>6</stop>
+		<distance>0</distance>
+	</road>
+	<road id="3">
+		<start>3</start>
+		<stop>7</stop>
+		<distance>0</distance>
+	</road>
+	<road id="4">
+		<start>4</start>
+		<stop>8</stop>
+		<distance>0</distance>
+	</road>
+	<road id="5">
+		<start>5</start>
+		<stop>9</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="6">
+		<start>6</start>
+		<stop>10</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="7">
+		<start>7</start>
+		<stop>11</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="8">
+		<start>8</start>
+		<stop>12</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="9">
+		<start>9</start>
+		<stop>16</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="10">
+		<start>10</start>
+		<stop>17</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="11">
+		<start>11</start>
+		<stop>18</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="12">
+		<start>17</start>
+		<stop>23</stop>
+		<distance>750</distance>
+	</road>
+	<road id="13">
+		<start>5</start>
+		<stop>6</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="14">
+		<start>6</start>
+		<stop>7</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="15">
+		<start>7</start>
+		<stop>8</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="16">
+		<start>9</start>
+		<stop>10</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="17">
+		<start>10</start>
+		<stop>11</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="18">
+		<start>11</start>
+		<stop>12</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="19">
+		<start>16</start>
+		<stop>17</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="20">
+		<start>17</start>
+		<stop>18</stop>
+		<distance>1000</distance>
+	</road>
+		<road id="21">
+		<start>13</start>
+		<stop>14</stop>
+		<distance>0</distance>
+	</road>
+	<road id="22">
+		<start>19</start>
+		<stop>20</stop>
+		<distance>0</distance>
+	</road>
+	<road id="23">
+		<start>28</start>
+		<stop>29</stop>
+		<distance>0</distance>
+	</road>
+	<road id="24">
+		<start>38</start>
+		<stop>39</stop>
+		<distance>0</distance>
+	</road>
+	<road id="25">
+		<start>14</start>
+		<stop>15</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="26">
+		<start>20</start>
+		<stop>21</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="27">
+		<start>29</start>
+		<stop>30</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="28">
+		<start>39</start>
+		<stop>40</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="29">
+		<start>21</start>
+		<stop>22</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="30">
+		<start>30</start>
+		<stop>31</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="31">
+		<start>40</start>
+		<stop>41</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="32">
+		<start>31</start>
+		<stop>32</stop>
+		<distance>750</distance>
+	</road>
+	<road id="33">
+		<start>14</start>
+		<stop>20</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="34">
+		<start>20</start>
+		<stop>29</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="35">
+		<start>29</start>
+		<stop>39</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="36">
+		<start>15</start>
+		<stop>21</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="37">
+		<start>21</start>
+		<stop>30</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="38">
+		<start>30</start>
+		<stop>40</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="39">
+		<start>22</start>
+		<stop>31</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="40">
+		<start>31</start>
+		<stop>41</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="41">
+		<start>27</start>
+		<stop>26</stop>
+		<distance>0</distance>
+	</road>
+	<road id="42">
+		<start>37</start>
+		<stop>36</stop>
+		<distance>0</distance>
+	</road>
+	<road id="43">
+		<start>46</start>
+		<stop>45</stop>
+		<distance>0</distance>
+	</road>
+	<road id="44">
+		<start>52</start>
+		<stop>51</stop>
+		<distance>0</distance>
+	</road>
+	<road id="45">
+		<start>26</start>
+		<stop>25</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="46">
+		<start>36</start>
+		<stop>35</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="47">
+		<start>45</start>
+		<stop>44</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="48">
+		<start>51</start>
+		<stop>50</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="49">
+		<start>25</start>
+		<stop>24</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="50">
+		<start>35</start>
+		<stop>34</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="51">
+		<start>44</start>
+		<stop>43</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="52">
+		<start>34</start>
+		<stop>33</stop>
+		<distance>750</distance>
+	</road>
+	<road id="53">
+		<start>26</start>
+		<stop>36</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="54">
+		<start>36</start>
+		<stop>45</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="55">
+		<start>45</start>
+		<stop>51</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="56">
+		<start>25</start>
+		<stop>35</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="57">
+		<start>35</start>
+		<stop>44</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="58">
+		<start>44</start>
+		<stop>50</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="59">
+		<start>24</start>
+		<stop>34</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="60">
+		<start>34</start>
+		<stop>43</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="61">
+		<start>61</start>
+		<stop>57</stop>
+		<distance>0</distance>
+	</road>
+	<road id="62">
+		<start>62</start>
+		<stop>58</stop>
+		<distance>0</distance>
+	</road>
+	<road id="63">
+		<start>63</start>
+		<stop>59</stop>
+		<distance>0</distance>
+	</road>
+	<road id="64">
+		<start>64</start>
+		<stop>60</stop>
+		<distance>0</distance>
+	</road>
+	<road id="65">
+		<start>57</start>
+		<stop>53</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="66">
+		<start>58</start>
+		<stop>54</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="67">
+		<start>59</start>
+		<stop>55</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="68">
+		<start>60</start>
+		<stop>56</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="69">
+		<start>54</start>
+		<stop>47</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="70">
+		<start>55</start>
+		<stop>48</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="71">
+		<start>56</start>
+		<stop>49</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="72">
+		<start>48</start>
+		<stop>42</stop>
+		<distance>750</distance>
+	</road>
+	<road id="73">
+		<start>57</start>
+		<stop>58</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="74">
+		<start>58</start>
+		<stop>59</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="75">
+		<start>59</start>
+		<stop>60</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="76">
+		<start>53</start>
+		<stop>54</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="77">
+		<start>54</start>
+		<stop>55</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="78">
+		<start>55</start>
+		<stop>56</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="79">
+		<start>47</start>
+		<stop>48</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="80">
+		<start>48</start>
+		<stop>49</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="81">
+		<start>14</start>
+		<stop>5</stop>
+		<distance>7000</distance>
+	</road>
+	<road id="82">
+		<start>15</start>
+		<stop>9</stop>
+		<distance>2000</distance>
+	</road>
+	<road id="83">
+		<start>22</start>
+		<stop>16</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="84">
+		<start>8</start>
+		<stop>26</stop>
+		<distance>7000</distance>
+	</road>
+	<road id="85">
+		<start>12</start>
+		<stop>25</stop>
+		<distance>2000</distance>
+	</road>
+	<road id="86">
+		<start>18</start>
+		<stop>24</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="87">
+		<start>39</start>
+		<stop>57</stop>
+		<distance>7000</distance>
+	</road>
+	<road id="88">
+		<start>40</start>
+		<stop>53</stop>
+		<distance>2000</distance>
+	</road>
+	<road id="89">
+		<start>41</start>
+		<stop>47</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="90">
+		<start>60</start>
+		<stop>51</stop>
+		<distance>7000</distance>
+	</road>
+	<road id="91">
+		<start>56</start>
+		<stop>50</stop>
+		<distance>2000</distance>
+	</road>
+	<road id="92">
+		<start>49</start>
+		<stop>43</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="93">
+		<start>5</start>
+		<stop>1</stop>
+		<distance>0</distance>
+	</road>
+	<road id="94">
+		<start>6</start>
+		<stop>2</stop>
+		<distance>0</distance>
+	</road>
+	<road id="95">
+		<start>7</start>
+		<stop>3</stop>
+		<distance>0</distance>
+	</road>
+	<road id="96">
+		<start>8</start>
+		<stop>4</stop>
+		<distance>0</distance>
+	</road>
+	<road id="97">
+		<start>9</start>
+		<stop>5</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="98">
+		<start>10</start>
+		<stop>6</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="99">
+		<start>11</start>
+		<stop>7</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="100">
+		<start>12</start>
+		<stop>8</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="101">
+		<start>16</start>
+		<stop>9</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="102">
+		<start>17</start>
+		<stop>10</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="103">
+		<start>18</start>
+		<stop>11</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="104">
+		<start>23</start>
+		<stop>17</stop>
+		<distance>750</distance>
+	</road>
+	<road id="105">
+		<start>6</start>
+		<stop>5</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="106">
+		<start>7</start>
+		<stop>6</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="107">
+		<start>8</start>
+		<stop>7</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="108">
+		<start>10</start>
+		<stop>9</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="109">
+		<start>11</start>
+		<stop>10</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="110">
+		<start>12</start>
+		<stop>11</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="111">
+		<start>17</start>
+		<stop>16</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="112">
+		<start>18</start>
+		<stop>17</stop>
+		<distance>1000</distance>
+	</road>
+		<road id="113">
+		<start>14</start>
+		<stop>13</stop>
+		<distance>0</distance>
+	</road>
+	<road id="114">
+		<start>20</start>
+		<stop>19</stop>
+		<distance>0</distance>
+	</road>
+	<road id="115">
+		<start>29</start>
+		<stop>28</stop>
+		<distance>0</distance>
+	</road>
+	<road id="116">
+		<start>39</start>
+		<stop>38</stop>
+		<distance>0</distance>
+	</road>
+	<road id="117">
+		<start>15</start>
+		<stop>14</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="118">
+		<start>21</start>
+		<stop>20</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="119">
+		<start>30</start>
+		<stop>29</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="120">
+		<start>40</start>
+		<stop>39</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="121">
+		<start>22</start>
+		<stop>21</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="122">
+		<start>31</start>
+		<stop>30</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="123">
+		<start>41</start>
+		<stop>40</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="124">
+		<start>32</start>
+		<stop>31</stop>
+		<distance>750</distance>
+	</road>
+	<road id="125">
+		<start>20</start>
+		<stop>14</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="126">
+		<start>29</start>
+		<stop>20</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="127">
+		<start>39</start>
+		<stop>29</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="128">
+		<start>21</start>
+		<stop>15</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="129">
+		<start>30</start>
+		<stop>21</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="130">
+		<start>40</start>
+		<stop>30</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="131">
+		<start>31</start>
+		<stop>22</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="132">
+		<start>41</start>
+		<stop>31</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="133">
+		<start>26</start>
+		<stop>27</stop>
+		<distance>0</distance>
+	</road>
+	<road id="134">
+		<start>36</start>
+		<stop>37</stop>
+		<distance>0</distance>
+	</road>
+	<road id="135">
+		<start>45</start>
+		<stop>46</stop>
+		<distance>0</distance>
+	</road>
+	<road id="136">
+		<start>51</start>
+		<stop>52</stop>
+		<distance>0</distance>
+	</road>
+	<road id="137">
+		<start>25</start>
+		<stop>26</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="138">
+		<start>35</start>
+		<stop>36</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="139">
+		<start>44</start>
+		<stop>45</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="140">
+		<start>50</start>
+		<stop>51</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="141">
+		<start>24</start>
+		<stop>25</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="142">
+		<start>34</start>
+		<stop>35</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="143">
+		<start>43</start>
+		<stop>44</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="144">
+		<start>33</start>
+		<stop>34</stop>
+		<distance>750</distance>
+	</road>
+	<road id="145">
+		<start>36</start>
+		<stop>26</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="146">
+		<start>45</start>
+		<stop>36</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="147">
+		<start>51</start>
+		<stop>45</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="148">
+		<start>35</start>
+		<stop>25</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="149">
+		<start>44</start>
+		<stop>35</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="150">
+		<start>50</start>
+		<stop>44</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="151">
+		<start>34</start>
+		<stop>24</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="152">
+		<start>43</start>
+		<stop>34</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="153">
+		<start>57</start>
+		<stop>61</stop>
+		<distance>0</distance>
+	</road>
+	<road id="154">
+		<start>58</start>
+		<stop>62</stop>
+		<distance>0</distance>
+	</road>
+	<road id="155">
+		<start>59</start>
+		<stop>63</stop>
+		<distance>0</distance>
+	</road>
+	<road id="156">
+		<start>60</start>
+		<stop>64</stop>
+		<distance>0</distance>
+	</road>
+	<road id="157">
+		<start>53</start>
+		<stop>57</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="158">
+		<start>54</start>
+		<stop>58</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="159">
+		<start>55</start>
+		<stop>59</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="160">
+		<start>56</start>
+		<stop>60</stop>
+		<distance>2500</distance>
+	</road>
+	<road id="161">
+		<start>47</start>
+		<stop>54</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="162">
+		<start>58</start>
+		<stop>55</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="163">
+		<start>49</start>
+		<stop>56</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="164">
+		<start>42</start>
+		<stop>48</stop>
+		<distance>750</distance>
+	</road>
+	<road id="165">
+		<start>58</start>
+		<stop>57</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="166">
+		<start>59</start>
+		<stop>58</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="167">
+		<start>60</start>
+		<stop>59</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="168">
+		<start>54</start>
+		<stop>53</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="169">
+		<start>55</start>
+		<stop>54</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="170">
+		<start>56</start>
+		<stop>55</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="171">
+		<start>48</start>
+		<stop>47</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="172">
+		<start>49</start>
+		<stop>48</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="173">
+		<start>5</start>
+		<stop>14</stop>
+		<distance>7000</distance>
+	</road>
+	<road id="174">
+		<start>9</start>
+		<stop>15</stop>
+		<distance>2000</distance>
+	</road>
+	<road id="175">
+		<start>16</start>
+		<stop>22</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="176">
+		<start>26</start>
+		<stop>8</stop>
+		<distance>7000</distance>
+	</road>
+	<road id="177">
+		<start>25</start>
+		<stop>12</stop>
+		<distance>2000</distance>
+	</road>
+	<road id="178">
+		<start>24</start>
+		<stop>18</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="179">
+		<start>57</start>
+		<stop>39</stop>
+		<distance>7000</distance>
+	</road>
+	<road id="180">
+		<start>53</start>
+		<stop>40</stop>
+		<distance>2000</distance>
+	</road>
+	<road id="181">
+		<start>47</start>
+		<stop>41</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="182">
+		<start>51</start>
+		<stop>60</stop>
+		<distance>7000</distance>
+	</road>
+	<road id="183">
+		<start>50</start>
+		<stop>56</stop>
+		<distance>2000</distance>
+	</road>
+	<road id="184">
+		<start>43</start>
+		<stop>49</stop>
+		<distance>1000</distance>
+	</road>
+	<road id="185">
+		<start>23</start>
+		<stop>32</stop>
+		<distance>1500</distance>
+	</road>
+	<road id="186">
+		<start>32</start>
+		<stop>42</stop>
+		<distance>1500</distance>
+	</road>
+	<road id="187">
+		<start>42</start>
+		<stop>33</stop>
+		<distance>1500</distance>
+	</road>
+	<road id="188">
+		<start>33</start>
+		<stop>23</stop>
+		<distance>1500</distance>
+	</road>
+>>>>>>> cbb2f0c0880b20e3b8dccca238417076d5b04d98
 </ITS>
